@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-    background-image: url('http://www.photohost.ru/pictures/156120.jpg')
+    background-image: url("http://www.photohost.ru/pictures/156120.jpg");
 h1 {
 	font-size: 32px;
     color: azure;
